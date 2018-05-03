@@ -6,7 +6,7 @@ Learning Angular
 
 ## TECHNOLOGIES
 
-[![MongoDB](angular.png)](https://www.mongodb.com/)
+[![Angular](angular.png)](https://www.mongodb.com/)
 
 
 - Angular
