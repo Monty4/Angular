@@ -1,14 +1,13 @@
-# Angular
+# ANGULAR
 
-## DESCRIPTION
+## Description
 
 Learning Angular
 
-## TECHNOLOGIES
+## Technologies
 
-[![Angular](angular.png)](https://www.mongodb.com/)
-
+[![Angular](angular.png)](https://angularjs.org/)
 
 - Angular
 
-## DEVELOPER: Mario Montalbán
+## Developer: Mario Montalbán
